@@ -1,19 +1,39 @@
-# Webpack Starter Kit
+# Todo
 
-Este es un proyecto base para crear aplicaciones usando webpack.
+Practica del curso "Js Moderno" de Fernando Herrera - app para la gestión de tareas
 
-### Notas:
-Para reconstruir
-```bash
-npm install
-```
+---
 
-Para Construir el build
-```bash
-npm run build
-```
+## Conocimientos aplicados
 
-Servidor de desarrollo
-```bash
-npm start
-```
+- ES6 / JavaScript
+
+  - Variables
+  - Operadores
+  - Eventos
+  - Ciclos
+  - Funciones
+  - Manipulación del DOM
+
+- Webpack
+
+  - DevServer
+  - Babel
+  - Estilos
+  - Minimización
+  - Empaquetamiento
+  - Conversión a otras versiones de JavaScript
+  - Despliegues
+
+- Npm
+
+  - Instalación de paquetes
+
+- Git / Github
+
+  - Gestion de versiones
+  - Despliegue en githubpages
+
+  ---
+
+  [Fuente del curso](https://www.udemy.com/course/javascript-fernando-herrera/)
